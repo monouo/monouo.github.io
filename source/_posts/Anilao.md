@@ -25,9 +25,4 @@ Plan B: 度假村接送，算入度假村打包价格里
 Plan C: 公共交通
    马尼拉机场 - JAM Liner Buendia terminal - Batangas(八打雁) - Mabini
    
-| 路程           | 备注            |    大概价格（2016.11）    |
-|:------------- |:--------------- | -------------:|
-| 马尼拉机场      | 打车前往车站 |         300 p |
-| JAM Liner Buendia terminal      | 走高速，约2小时        |  160 p |
-| Batangas city bus terminal | 转Jeepney到Mabini的Anilao，人满发车（也可包jeepney，约1000p）    | 35 p           |
-| Mabini Anilao crossing bus station| 嘟嘟车到Anilao潜店或者旅店 | 50 p|
+|
