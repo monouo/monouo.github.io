@@ -1,7 +1,7 @@
 ---
 title: 阿尼洛（Anilao）和 海豚湾（PG Puerto Galera）
 ---
-#阿尼洛
+# 阿尼洛
 ## 简介
 阿尼洛（Anilao）距马尼拉140公里；是菲律宾最早开发的潜点，约40个潜点，以微距和软珊瑚著称，号称top3 垃圾场潜水（Muck Diving）之一，另外两个分别是印尼的蓝碧海峡（Lembeh Strait in Indonesia）和马来西亚的马布岛（Mabul Island in Malaysia）。
 ### 传闻：
