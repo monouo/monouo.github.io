@@ -34,18 +34,20 @@ Plan C: 公共交通
 # 阿波礁（Apo Reef/Apo Reef Natural Park (ARNP)）
 ## 简介
 注意，Apo Reef不是杜马盖地附近的阿波岛（Apo Island）。环礁中也有个小岛叫做Apo Island。
-阿波礁自然公园（Apo Reef National Park ）占地35平方公里，是世界上仅次于澳大利亚大堡礁的环状珊瑚礁岛。这里如水晶般纯净的海水里生活着大量的鱼类和种类繁多的珊瑚。海水能见度30米+。浮潜也可以看到白鳍鲨。与图巴塔哈群礁（Tubbataha Reefs）并列号称菲律宾顶级潜点。[wiki链接](https://en.wikipedia.org/wiki/Apo_Reef)
+阿波礁自然公园（Apo Reef National Park ）占地35平方公里，是世界上仅次于澳大利亚大堡礁的环状珊瑚礁岛。这里如水晶般纯净的海水里生活着大量的鱼类和种类繁多的珊瑚。海水能见度30米+。浮潜也可以看到白鳍鲨。与图巴塔哈群礁（Tubbataha Reefs）并列号称菲律宾顶级潜点。[wiki链接](https://en.wikipedia.org/wiki/
+Apo_Reef)
+全年都可以潜水，最好的潜水季节是4-5月和10-11月。
 位于民都洛岛附近，交通偏僻，游客少，Apo Reef门票约2000p。
 与著名沉船潜点科隆（Coron）隔海相望。
 由于水流缓，一般AOW，30+瓶潜水纪录即可参加船宿（科隆+Rpo Reef的船宿可能要求40+瓶）。
 
 ## 交通
-Plan A：马尼拉飞到圣何塞机场（San Jose，机场代码SJI）
+Plan A：马尼拉飞到圣何塞机场（San Jose，机场代码SJI）- 萨布拉延（Sablayan）
 Plan B：马尼拉  -  八打雁码头（Batangas） - 阿布拉码头（Abra）
-Plan C：马尼拉  -  八打雁码头（Batangas） - Sablayan - Pandan Island
+Plan C：马尼拉  -  八打雁码头（Batangas） - 萨布拉延（Sablayan） - Pandan Island
 
 ## 潜水
-一般深潜需要包船，船宿2天1晚；
+一般深潜需要包船，船宿2天1晚或者更长。
 Plan A：大号螃蟹船，二层通铺/大号螃蟹船，独立客舱
 Plan B：帆船（机帆船），独立客舱
 Plan C：科隆 + Apo Reef的船宿，独立客舱
@@ -60,3 +62,5 @@ Plan C：科隆 + Apo Reef的船宿，独立客舱
 [Dolphinbay Beachfront Resort 双体机帆船，独立客舱](http://www.dolphinbay-divers.com/)
 
 [naya sailing小型双体机帆船，4-6人可包船](http://www.nayasailing.com/)
+
+[蓝鳍潜水 有淘宝店]()
