@@ -18,12 +18,16 @@ title: 阿尼洛（Anilao）和 民都洛岛(Mindoro)
 4，5月是最佳时期，也是高峰期，周末潜点可能拥挤。
 
 ## 交通
-Plan A: 机场包车，单程约100美元
+Plan A: 机场包车，单程约100美元，也可以提前联系潜店安排；约2个小时
 
-Plan B: 度假村接送，算入度假村打包价格里
+Plan B: 度假村接送，算入度假村打包价格
 
-Plan C: 公共交通
+Plan C: 公共交通，约4个小时
+
    马尼拉机场 - JAM Liner Buendia terminal - Batangas(八打雁) - Mabini
+   
+## 参考酒店
+[阿尼洛印相酒店 Anilao Photo Academy，老板是潜水摄影师；可提供机场接送，单程100美元](https://www.anilaophotoacademy.net/)
    
 
 # 加莱拉港（海豚湾/PG/Puerto Galera）
